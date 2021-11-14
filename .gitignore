@@ -1,0 +1,4 @@
+# ignore yml
+*.yml
+# ignore all logs
+**/logs
